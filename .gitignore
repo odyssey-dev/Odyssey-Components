@@ -4,3 +4,4 @@
 build-storybook.log
 .DS_Store
 *.log
+/components/
