@@ -1,4 +1,5 @@
 /node_modules/
 /public/build/
 /storybook-static
+build-storybook.log
 .DS_Store

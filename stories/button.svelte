@@ -8,7 +8,7 @@
       border-radius: 3px;
       background-color: #FFFFFF;
       cursor: pointer;
-      font-size: 15px;
+      font-size: 18px;
       padding: 3px 10px;
       margin: 10px;
     }

@@ -6,7 +6,8 @@
     "dev": "rollup -c -w",
     "start": "sirv public",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token 8u4y08nbja6"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
@@ -17,6 +18,7 @@
     "@storybook/addons": "^6.0.25",
     "@storybook/svelte": "^6.0.25",
     "babel-loader": "^8.1.0",
+    "chromatic": "^5.2.0",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^6.0.0",
