@@ -14,6 +14,7 @@
     "@rollup/plugin-commonjs": "^14.0.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
     "@storybook/addon-actions": "^6.0.25",
+    "@storybook/addon-backgrounds": "^6.0.25",
     "@storybook/addon-links": "^6.0.25",
     "@storybook/addons": "^6.0.25",
     "@storybook/svelte": "^6.0.25",
@@ -27,6 +28,7 @@
     "svelte-loader": "^2.13.6"
   },
   "dependencies": {
+    "@odyssey-dev/loading-icon": "0.0.8",
     "sirv-cli": "^1.0.0"
   }
 }
